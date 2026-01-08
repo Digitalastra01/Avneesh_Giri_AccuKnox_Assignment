@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Generated Data & Artifacts
+users.csv
+scores_chart.png
+
+# IDEs
+.vscode/
+.idea/
